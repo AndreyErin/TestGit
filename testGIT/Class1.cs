@@ -13,7 +13,7 @@ namespace testGIT
             int a = 0;
             string s = "aaaaa";
             bool b = false;
-
+            string ddd;
             char c = 'a';
         }
     }
