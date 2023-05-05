@@ -8,6 +8,7 @@ namespace testGIT
         {
             Console.WriteLine("Hello World!\n");
             Console.WriteLine("I am here!");
+            char[] chars = { 'a', 'b', 'c', };
         }
     }
 }
