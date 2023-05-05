@@ -8,5 +8,7 @@ namespace testGIT
 {
     internal class Class1
     {
+        int a = 1;
+        int b = 2;
     }
 }
