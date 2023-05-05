@@ -11,6 +11,7 @@ namespace testGIT
         public Class1()
         {
             int a = 0;
+            string s = "aaaaa";
         }
     }
 }
